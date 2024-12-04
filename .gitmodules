@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:harsh-1806/user-service-hrs.git
+[submodule "hotel-service"]
+	path = hotel-service
+	url = git@github.com:harsh-1806/hotel-service-hrs.git
