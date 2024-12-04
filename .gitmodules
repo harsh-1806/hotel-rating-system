@@ -4,6 +4,7 @@
 [submodule "hotel-service"]
 	path = hotel-service
 	url = git@github.com:harsh-1806/hotel-service-hrs.git
-[submodule "hotel-rating-system"]
-	path = hotel-rating-system
-	url = git@github.com:harsh-1806/hotel-rating-system.git
+[submodule "rating-service"]
+	path = rating service
+	url = git@github.com:harsh-1806/rating-service-hrs.git
+
