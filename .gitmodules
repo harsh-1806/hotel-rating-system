@@ -7,3 +7,6 @@
 [submodule "rating-service"]
 	path = rating-service
 	url = git@github.com:harsh-1806/rating-service-hrs.git
+[submodule "service-registry"]
+	path = service-registry
+	url = git@github.com:harsh-1806/service-registry-hrs.git
